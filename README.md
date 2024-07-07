@@ -40,7 +40,7 @@
    ```sh
    git clone https://github.com/your-username/todo-app.git
    cd todo-app
-   ```sh
+   
 
 
 
@@ -51,7 +51,7 @@
    npm install
    cp .env.example .env  # Don't forget to edit your .env file
    npm start
-   ```sh
+   
 
 3. Set up the frontend
 
@@ -59,7 +59,7 @@
    cd ../frontend
    npm install
    npm start
-   ```sh
+   
 
 4. Open your browser and navigate to `http://localhost:3000`. Happy todo-ing!
 
