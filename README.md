@@ -2,30 +2,28 @@
 
 A sleek, full-stack to-do application built with modern web technologies. Stay organized, boost productivity, and manage your tasks with ease!
 
-
-
 ## ✨ Features
 
 - 🔐 Secure user authentication (register, login, logout)
-- ➕ Create, read, update, and delete todos effortlessly
+- ➕ Effortlessly create, read, update, and delete todos
 - ✅ Mark todos as completed with a satisfying checkbox
-- 📱 Fully responsive design - works on desktop and mobile
+- 📱 Fully responsive design - works seamlessly on desktop and mobile
 - 🌙 Stylish dark theme for comfortable use day and night
 - 🚀 Smooth animations for a polished user experience
 
 ## 🛠️ Technologies Used
 
-- **Frontend**: 
-  - React for a dynamic and efficient UI
-  - Material-UI for sleek, ready-to-use components
-  - Framer Motion for fluid animations
+### Frontend:
+- **React**: Dynamic and efficient UI
+- **Material-UI**: Sleek, ready-to-use components
+- **Framer Motion**: Fluid animations
 
-- **Backend**: 
-  - Node.js and Express for a robust server-side application
-  - MongoDB for flexible and scalable data storage
+### Backend:
+- **Node.js and Express**: Robust server-side application
+- **MongoDB**: Flexible and scalable data storage
 
-- **Authentication**: 
-  - JSON Web Tokens (JWT) for secure, stateless authentication
+### Authentication:
+- **JSON Web Tokens (JWT)**: Secure, stateless authentication
 
 ## 🚀 Quick Start
 
@@ -38,8 +36,10 @@ A sleek, full-stack to-do application built with modern web technologies. Stay o
 
 1. Clone the repository
 
-'''git clone https://github.com/your-username/todo-app.git'''
-'''cd todo-app'''
+   ```sh
+   git clone https://github.com/your-username/todo-app.git
+   cd todo-app
+
 
 
 2. Set up the backend
