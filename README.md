@@ -89,7 +89,7 @@
 
 ## 🤝 Contributing
 
-   Contributions, issues, and feature requests are welcome! Feel free to       check [issues page](https://github.com/ASHGEEKZ/todo-app/issues).
+   Contributions, issues, and feature requests are welcome! Feel free to       check [issues page](https://github.com/ashishgeorge-1/todo-app/issues).
 
 ## 📝 License
 
@@ -105,4 +105,4 @@
 
    ---
 
-Made with ❤️ by [ASHISH](https://github.com/ASHGEEKZ)
+Made with ❤️ by [ASHISH](https://github.com/ashishgeorge-1)
