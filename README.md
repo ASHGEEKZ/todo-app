@@ -1,8 +1,8 @@
 # ✅ Todo App
 
-A sleek, full-stack todo application built with modern web technologies. Stay organized, boost productivity, and manage your tasks with ease!
+A sleek, full-stack to-do application built with modern web technologies. Stay organized, boost productivity, and manage your tasks with ease!
 
-![Todo App Screenshot](https://your-screenshot-url-here.png)
+
 
 ## ✨ Features
 
@@ -41,6 +41,7 @@ A sleek, full-stack todo application built with modern web technologies. Stay or
 git clone https://github.com/your-username/todo-app.git
 cd todo-app
 
+
 2. Set up the backend
 
 cd backend
@@ -77,6 +78,7 @@ todo-app/
 └── README.md
 
 
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/your-username/todo-app/issues).
@@ -95,4 +97,4 @@ This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
 
 ---
 
-Made with ❤️ by [Your Name](https://github.com/ASHGEEKZ)
+Made with ❤️ by [ASHISH](https://github.com/ASHGEEKZ)
