@@ -38,8 +38,8 @@ A sleek, full-stack to-do application built with modern web technologies. Stay o
 
 1. Clone the repository
 
-git clone https://github.com/your-username/todo-app.git
-cd todo-app
+'''git clone https://github.com/your-username/todo-app.git'''
+'''cd todo-app'''
 
 
 2. Set up the backend
