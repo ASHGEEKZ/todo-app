@@ -44,6 +44,7 @@ A sleek, full-stack to-do application built with modern web technologies. Stay o
 
 2. Set up the backend
 
+```sh
 cd backend
 npm install
 cp .env.example .env  # Don't forget to edit your .env file
@@ -51,6 +52,7 @@ npm start
 
 3. Set up the frontend
 
+```sh
 cd ../frontend
 npm install
 npm start
@@ -59,6 +61,7 @@ npm start
 
 ## 📁 Project Structure
 
+```sh
 todo-app/
 ├── frontend/        # React frontend
 │   ├── public/
@@ -81,7 +84,7 @@ todo-app/
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/your-username/todo-app/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/ASHGEEKZ/todo-app/issues).
 
 ## 📝 License
 
